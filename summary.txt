@@ -1,0 +1,12 @@
+
+1. global part : 
+- sidebar (before register and after registered)
+- Header (mobile & desktop version)
+- Mobile navigation bar
+
+2. Dashboard (guest view and registered ) 
+3. Reward Page 
+4. Reward details page
+5. Register Page (multi-step form)
+6. History Page
+7. Buy gold (buy gold popup > confirm payment alert > E-AQAD customer buy popup)
