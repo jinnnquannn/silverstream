@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
-  <body>
-    <?php include_once "html/template/header.html ?>
-  </body>
+  <div id="DivContent"></div>
+   <script src=
+"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+    </script>
+  <script> 
+    $(function(){
+      $("#DivContent").load("/html/template/header.html"); 
+    });
+    </script> 
 </html>
